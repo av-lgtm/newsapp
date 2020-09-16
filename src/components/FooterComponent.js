@@ -5,7 +5,7 @@ const Footer = () => {
     return(
         <ul className="footer-links">
             <li>
-                <i className="fa fa-copyright"></i><span> S Trivedi 2018</span>
+                <i className="fa fa-copyright"></i><span>copyright</span>
             </li>
             <li>
                 <i className="fa fa-twitter"></i>
